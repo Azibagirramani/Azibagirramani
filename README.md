@@ -6,14 +6,7 @@ Experienced software developer with a passion for crafting exceptional web exper
 - Backend: Node.js, C#, .NET
 - Databases: PostgreSQL, MySQL
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Skills](https://img.shields.io/badge/Skills-ReactJS%20%7C%20Vue.js%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20C%23%20%7C%20.NET%20%7C%20PostgreSQL%20%7C%20MySQL-34B4EB?style=for-the-badge&logo=none)
 
 ## 🚀 What I Do
 
