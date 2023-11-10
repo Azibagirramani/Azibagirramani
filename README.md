@@ -6,8 +6,6 @@ Experienced software developer with a passion for crafting exceptional web exper
 - Backend: Node.js, C#, .NET
 - Databases: PostgreSQL, MySQL
 
-## 🔧 Technologies & Tools
-
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
